@@ -1,0 +1,5 @@
+# Configuration file for the nginx service.
+
+NGINX=/usr/local/nginx/sbin/nginx
+CONFFILE=/usr/local/nginx/conf/nginx.conf
+LOCKFILE=/var/lock/subsys/nginx
